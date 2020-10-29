@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\components\\sidebar",
+    "\\dashboard",
+    "\\layouts",
+    "\\layouts\\amglayout",
+    "\\table-list"
+  ],
+  "SelectedNode": "\\table-list\\table-list.component.ts",
+  "PreviewInSolutionExplorer": false
+}
